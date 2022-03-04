@@ -1,3 +1,4 @@
 # Jugend-Forscht-Programm Antonio Georgi
-Die .exe des Programms kann nach em herunterladen mit Doppel-Klick ausgeführt werden.
+Beim Herunterladen der .exe Datei können Sicherheitswarnungen ignoriert, da das Programm keine Viren enthält.
+Nach dem herunterladen kann das Programm mit Doppel-Klick ausgeführt werden.
 Das Programm ist nach dem Öffnen selbsterkärend.
